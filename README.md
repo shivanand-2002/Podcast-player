@@ -13,7 +13,7 @@ This is a podcast player app built with the MERN (MongoDB, Express.js, React.js,
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yashshitole2003/Podcast-Player
+   gh repo clone shivanand-2002/Podcast-player
    
 2. **Install dependencies**
    ``sh
